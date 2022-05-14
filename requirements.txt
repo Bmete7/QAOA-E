@@ -1,0 +1,11 @@
+matplotlib==3.4.3
+networkx==2.6.3
+noisyopt==0.2.2
+numpy==1.22.1
+PennyLane==0.22.1
+qiskit==0.36.1
+qiskit_terra==0.19.2
+scipy==1.7.1
+seaborn==0.11.2
+torch==1.10.0
+tqdm==4.62.3
